@@ -1,12 +1,12 @@
-# Casper
+# SmilingCasper
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+[BookingSync Blog theme](https://github.com/BookingSync/SmilingCasper) based on the default [Casper theme](https://github.com/TryGhost/Casper) for [Ghost](http://github.com/tryghost/ghost/).
 
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+To download, visit the [releases](https://github.com/BookingSync/SmilingCasper/releases) page.
 
 ## Copyright & License
 
-Copyright (c) 2013-2015 Ghost Foundation - Released under the MIT License.
+Copyright (c) 2013-2015 Ghost Foundation, BookingSync SAS - Released under the MIT License.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
